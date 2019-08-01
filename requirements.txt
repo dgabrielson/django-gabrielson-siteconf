@@ -1,0 +1,11 @@
+Django
+django-haystack
+Whoosh
+django-passwords
+
+django-gabrielson-templates
+django-admin-export
+django-xkcd
+django-aquarium-info>=0.1
+django-hackers-diet
+django-markuphelpers

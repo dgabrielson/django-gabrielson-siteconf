@@ -1,0 +1,17 @@
+Django
+Whoosh
+
+django-debug-toolbar
+
+-e hg+https://bitbucket.org/ero-sennin/django-dumpdb#egg=django-dumpdb
+-e git+https://github.com/dgabrielson/django-haystack.git#egg=django-haystack
+
+
+-e hg+ssh://home.gabrielson.ca/django-gabrielson-templates/#egg=django_gabrielson_templates-dev
+-e hg+ssh://home.gabrielson.ca/django-xkcd/#egg=django_xkcd-dev
+-e hg+ssh://home.gabrielson.ca/django-aquarium-info/#egg=django_aquarium_info-dev
+-e hg+ssh://home.gabrielson.ca/django-iwebkit/#egg=django_iwebkit-dev
+-e hg+ssh://home.gabrielson.ca/django-budget/#egg=django_budget-dev
+-e hg+ssh://home.gabrielson.ca/django-scrapbook#egg=django_scrapbook-dev
+-e hg+ssh://dave@home.gabrielson.ca/python-gnuplot-data#egg=gnuplot_data
+-e hg+ssh://home.gabrielson.ca/django-hackers-diet#egg=django_hackers_diet-dev

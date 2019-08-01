@@ -1,0 +1,9 @@
+include requirements.txt
+include README.md
+include LICENSE.txt
+recursive-include gabrielson_site/static *
+recursive-include gabrielson_site/templates *
+
+# added by check_manifest.py
+include *.py
+include *.txt
